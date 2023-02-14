@@ -1,0 +1,5 @@
+Props can be seen as paramethers of a component (funciton)
+Props = properties
+
+css module you need Name.module.css
+You tell react by ".module" that you want to use it.
