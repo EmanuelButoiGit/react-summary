@@ -1,6 +1,6 @@
 # udemy-react
 
-Udemy React - The Summary version :) 
+Udemy React - The Summary version :) <br>
 https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
 # Contents:
@@ -41,4 +41,5 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
 501. Submitting Data with action()s
 502. Dynamic Routes
 
+<br>
 ![React](https://user-images.githubusercontent.com/72088440/219869426-0bbe7c36-dd8c-4931-b63f-ed3d1481ee97.PNG)
