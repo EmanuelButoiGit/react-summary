@@ -39,7 +39,6 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
 499. Linking & Navigating
 500. Data Fetching via loader()s
 501. Submitting Data with action()s
-502. Dynamic Routes
+502. Dynamic Routes<br>
 
-<br>
 ![React](https://user-images.githubusercontent.com/72088440/219869426-0bbe7c36-dd8c-4931-b63f-ed3d1481ee97.PNG)
