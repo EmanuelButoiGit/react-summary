@@ -41,4 +41,5 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux
 501. Submitting Data with action()s
 502. Dynamic Routes <br><br>
 
-![React](https://user-images.githubusercontent.com/72088440/219869426-0bbe7c36-dd8c-4931-b63f-ed3d1481ee97.PNG)
+![React](https://user-images.githubusercontent.com/72088440/219869976-97ed9aa1-7de3-4db3-b4ce-f8a0e773a292.PNG)
+
